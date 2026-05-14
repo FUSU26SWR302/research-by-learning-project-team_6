@@ -52,4 +52,4 @@ Dự án này không chỉ dừng lại ở các thao tác CRUD cơ bản mà đ
 
 ### 4. Quản lý dự án (Jira)
 
-## Phân công thành viên:
+- **Phân công thành viên**:
