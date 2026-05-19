@@ -53,3 +53,4 @@ Dự án này không chỉ dừng lại ở các thao tác CRUD cơ bản mà đ
 ### 4. Quản lý dự án (Jira)
 
 - **Phân công thành viên**:
+- **Link Jira**: [Group6 Team Jira](https://nhaphuong220905.atlassian.net/?continue=https%3A%2F%2Fnhaphuong220905.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10002&atlOrigin=eyJpIjoiZTRiZmMwZjQyYTgwNDZlNGIyOWUzZDg2MTVjOTYyYzMiLCJwIjoiamlyYS1zb2Zmd2FyZSJ9)
